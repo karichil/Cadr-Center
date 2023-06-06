@@ -1,0 +1,15 @@
+C:\Users\karin\OneDrive\Pulpit\studia\programowanie\Sem2 PO\Cadr-Center\CardCenter\bin\Debug\net6.0\CardCenter.exe
+C:\Users\karin\OneDrive\Pulpit\studia\programowanie\Sem2 PO\Cadr-Center\CardCenter\bin\Debug\net6.0\CardCenter.deps.json
+C:\Users\karin\OneDrive\Pulpit\studia\programowanie\Sem2 PO\Cadr-Center\CardCenter\bin\Debug\net6.0\CardCenter.runtimeconfig.json
+C:\Users\karin\OneDrive\Pulpit\studia\programowanie\Sem2 PO\Cadr-Center\CardCenter\bin\Debug\net6.0\CardCenter.dll
+C:\Users\karin\OneDrive\Pulpit\studia\programowanie\Sem2 PO\Cadr-Center\CardCenter\bin\Debug\net6.0\CardCenter.pdb
+C:\Users\karin\OneDrive\Pulpit\studia\programowanie\Sem2 PO\Cadr-Center\CardCenter\obj\Debug\net6.0\CardCenter.csproj.AssemblyReference.cache
+C:\Users\karin\OneDrive\Pulpit\studia\programowanie\Sem2 PO\Cadr-Center\CardCenter\obj\Debug\net6.0\CardCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karin\OneDrive\Pulpit\studia\programowanie\Sem2 PO\Cadr-Center\CardCenter\obj\Debug\net6.0\CardCenter.AssemblyInfoInputs.cache
+C:\Users\karin\OneDrive\Pulpit\studia\programowanie\Sem2 PO\Cadr-Center\CardCenter\obj\Debug\net6.0\CardCenter.AssemblyInfo.cs
+C:\Users\karin\OneDrive\Pulpit\studia\programowanie\Sem2 PO\Cadr-Center\CardCenter\obj\Debug\net6.0\CardCenter.csproj.CoreCompileInputs.cache
+C:\Users\karin\OneDrive\Pulpit\studia\programowanie\Sem2 PO\Cadr-Center\CardCenter\obj\Debug\net6.0\CardCenter.dll
+C:\Users\karin\OneDrive\Pulpit\studia\programowanie\Sem2 PO\Cadr-Center\CardCenter\obj\Debug\net6.0\refint\CardCenter.dll
+C:\Users\karin\OneDrive\Pulpit\studia\programowanie\Sem2 PO\Cadr-Center\CardCenter\obj\Debug\net6.0\CardCenter.pdb
+C:\Users\karin\OneDrive\Pulpit\studia\programowanie\Sem2 PO\Cadr-Center\CardCenter\obj\Debug\net6.0\CardCenter.genruntimeconfig.cache
+C:\Users\karin\OneDrive\Pulpit\studia\programowanie\Sem2 PO\Cadr-Center\CardCenter\obj\Debug\net6.0\ref\CardCenter.dll
